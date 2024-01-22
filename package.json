@@ -1,0 +1,10 @@
+{
+  "name": "deneme123",
+  "uuid": "777d1925-d6ad-4bfb-aebf-230eaef34c3d",
+  "creator": {
+    "version": "3.8.1"
+  },
+  "dependencies": {
+    "cocos2d": "^0.1.1"
+  }
+}
